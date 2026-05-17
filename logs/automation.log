@@ -1,0 +1,18 @@
+2026-05-17 22:26:59 INFO  NhsJobSearchSteps:30 - Initializing WebDriver and WebDriverWait
+2026-05-17 22:27:00 INFO  NhsJobSearchSteps:37 - Navigating to NHS jobs search page
+2026-05-17 22:27:00 INFO  NhsJobSearchSteps:77 - Clicking on More search options
+2026-05-17 22:27:01 INFO  NhsJobSearchSteps:30 - Initializing WebDriver and WebDriverWait
+2026-05-17 22:27:01 INFO  NhsJobSearchSteps:37 - Navigating to NHS jobs search page
+2026-05-17 22:27:02 INFO  NhsJobSearchSteps:30 - Initializing WebDriver and WebDriverWait
+2026-05-17 22:27:03 INFO  NhsJobSearchSteps:37 - Navigating to NHS jobs search page
+2026-05-17 22:27:03 INFO  NhsJobSearchSteps:52 - Entering location: London
+2026-05-17 22:27:04 INFO  NhsJobSearchSteps:30 - Initializing WebDriver and WebDriverWait
+2026-05-17 22:27:04 INFO  NhsJobSearchSteps:37 - Navigating to NHS jobs search page
+2026-05-17 22:27:05 INFO  NhsJobSearchSteps:77 - Clicking on More search options
+2026-05-17 22:27:05 INFO  NhsJobSearchSteps:203 - Expected Pay Range options: [Please select, £0 to £10,000, £10,000 to £20,000, £20,000 to £30,000, £30,000 to £40,000, £40,000 to £50,000, £50,000 to £60,000, £60,000 to £70,000, £70,000 to £80,000, £80,000 to £90,000, £90,000 to £100,000, £100,000 plus]
+2026-05-17 22:27:05 INFO  NhsJobSearchSteps:204 - Actual Pay Range options: [Please select, £0 to £10,000, £10,000 to £20,000, £20,000 to £30,000, £30,000 to £40,000, £40,000 to £50,000, £50,000 to £60,000, £60,000 to £70,000, £70,000 to £80,000, £80,000 to £90,000, £90,000 to £100,000, £100,000 plus]
+2026-05-17 22:27:05 INFO  NhsJobSearchSteps:30 - Initializing WebDriver and WebDriverWait
+2026-05-17 22:27:06 INFO  NhsJobSearchSteps:37 - Navigating to NHS jobs search page
+2026-05-17 22:27:06 INFO  NhsJobSearchSteps:44 - Entering job title: Nurse
+2026-05-17 22:27:06 INFO  NhsJobSearchSteps:52 - Entering location: London
+2026-05-17 22:27:07 INFO  NhsJobSearchSteps:77 - Clicking on More search options
