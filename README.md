@@ -1,4 +1,4 @@
-# 🧪 NHS Jobs Search Automation Suite – `KiruthikaArjunan-NHSBSA`
+# 🩺 NHS Jobs Search Automation Suite – `KiruthikaArjunan-NHSBSA`
 
 ## 🔍 Project Overview
 
